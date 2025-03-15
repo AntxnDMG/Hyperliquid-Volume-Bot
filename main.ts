@@ -9,6 +9,7 @@ import * as path from 'path';
 
 const TRACKING_DATA_FILE = path.join(__dirname, 'tracking_data.json'); 
 
+// add const for BOT_TOKEN [not included due to Github scrapers] 
 const WEBSOCKET_URL = 'wss://api.hyperliquid.xyz/ws';
 
 const bot = new Telegraf(BOT_TOKEN);
