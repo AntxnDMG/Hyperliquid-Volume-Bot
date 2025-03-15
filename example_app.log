@@ -1,0 +1,44 @@
+[2025-03-15T19:41:03.400Z] info: WebSocket connected
+[2025-03-15T19:41:03.404Z] info: Subscribing to specific spot assets
+[2025-03-15T19:41:03.404Z] info: Subscribing to trades for @37
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @1
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @123
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @85
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @74
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @59
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @23
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @4
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @51
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @49
+[2025-03-15T19:41:03.405Z] info: Subscribing to trades for @8
+[2025-03-15T19:41:03.405Z] info: Started heartbeat to keep WebSocket connection alive.
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $25.87, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $47.96, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $70.04, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $116.11, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $177.32, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $212.65, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $281.43, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $303.52, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $372.30, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $408.90, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $470.11, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $537.63, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $559.71, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $614.61, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $685.92, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $730.09, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $752.18, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $805.81, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $842.41, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $853.77, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $875.86, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $933.91, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $956.00, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $978.08, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $1000.17, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $1022.25, Sell $0.00
+[2025-03-15T19:41:03.975Z] info: Volume calculation for @1: Buy $1074.63, Sell $0.00
+[2025-03-15T19:41:20.049Z] info: Volume calculation for @1: Buy $1082.83, Sell $0.00
+[2025-03-15T19:41:33.429Z] info: User 5776570431 subscribed to all spot pairs.
+[2025-03-15T19:41:45.818Z] info: Volume calculation for @1: Buy $1075.26, Sell $0.00
